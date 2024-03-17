@@ -1,11 +1,5 @@
 ; *****************************************************************************
-;  Name: JOHN KNAPP
-;  NSHE_ID: 5005407675
-;  Section: 1004 
-;  Assignment: 11
 ;  Description: Practice File IO, IO Buffering, and OS Interactions through image manip
-
-
 ; ***********************************************************************
 ;  Data declarations
 ;	Note, the error message strings should NOT be changed.
