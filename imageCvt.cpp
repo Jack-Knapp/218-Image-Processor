@@ -1,9 +1,4 @@
-// CS 218 - Provided C++ program
-//	This programs calls assembly language routines.
-
-//  Must ensure g++ compiler is installed:
-//	sudo apt-get install g++
-
+This programs calls assembly language routines.
 // ***************************************************************************
 
 #include <cstdlib>
@@ -78,7 +73,7 @@ int main (int argc, char* argv[])
 
 		rowBuffer = new unsigned char [picWidth*3];
 
-		// Main procesing loop
+		// Main processing loop
 		//	read row
 		//	image processing (based on option)
 		//		convert to grayscale
