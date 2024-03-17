@@ -1,6 +1,4 @@
-# CS 218 Assignment #11
-# Simple make file for asst #11
-
+# Simple make file for project
 OBJS	= imageCvt.o a11procs.o
 ASM	= yasm -g dwarf2 -f elf64
 CC	= g++ -g -std=c++11 
